@@ -1,6 +1,7 @@
 # SETU-IoT
 # Project_Health_Environment_Monitor
-naem: Armin Sammer
+naem: Armin Sammer /n
+
 home-uni: hf24b014@technikum-wien.at
 
 This project implements an IoT-based monitoring system designed for personal fitness tracking. Using a Raspberry Pi 4 as the central processing node, the system collects physical data (Heart Rate) and environmental data (Temperature/Humidity). The data is processed locally, formatted as JSON, and transmitted via MQTT to IoT platform.
