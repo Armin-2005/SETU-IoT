@@ -1,6 +1,6 @@
 # SETU-IoT
 # Project_Health_Environment_Monitor
-naem: Armin Sammer /n
+naem: Armin Sammer 
 
 home-uni: hf24b014@technikum-wien.at
 
